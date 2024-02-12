@@ -3,11 +3,11 @@ HR Data Analysis using Power BI &amp; Excel
 ![hrd1](https://github.com/Khushbooo123/HR-Data-Analysis/assets/52238176/4e16f9e5-35eb-414f-92bc-c4048d648acb)
 ![hrd2](https://github.com/Khushbooo123/HR-Data-Analysis/assets/52238176/d93bb31e-a2a9-465b-9c9f-2f944d06dcd0)
 
-Project Description:
+# Project Description:
 
 This project, undertaken by Psyliq, focuses on HR Data Analysis using a combination of Microsoft Power BI, SQL (Structured Query Language), Excel, and presentation tools such as Power Point and Google Slides. The aim is to leverage data-driven insights for informed decision-making within the Human Resources domain. The project involves extracting, transforming, and visualizing HR data to provide a comprehensive understanding of workforce trends and performance metrics.
 
-Tools Used:
+# Tools Used:
 
 Microsoft Power BI: Utilized for creating interactive and visually appealing dashboards, facilitating in-depth analysis of HR data.
 
